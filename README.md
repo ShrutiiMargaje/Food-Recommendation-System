@@ -1,2 +1,21 @@
 # Food-Recommendation-System
-BE Project
+![Screenshot (246)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/d6375370-8e42-4ed9-87d2-aeda8454d584)
+![Screenshot (247)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/46d6d8ef-a130-4a4a-befd-8d9d45aca850)
+![Screenshot (248)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/aaf4bcb1-66a5-4c32-8eba-0cadee28efc6)
+![Screenshot (249)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/0029e4b6-35b8-47e8-8ef8-61ff459c5f32)
+![Screenshot (250)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/6ce6510e-8dba-42de-8e6e-53dcde52ee0b)
+![Screenshot (251)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/fef0178f-13e6-40e1-9015-7616eda066b4)
+![Screenshot (252)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/394db393-18a1-4d0b-83b7-bf7370a86250)
+
+![Screenshot (253)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/994b0cf3-9699-410a-81ed-ea1af0eaa4a9)
+![Screenshot (254)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/2977b38f-3ab2-4168-87ac-9feff7617714)
+![Screenshot (255)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/0a499a47-73a9-4905-9f7e-9c9043fbe0e0)
+![Screenshot (256)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/aed2f7e9-c577-4ce8-8e77-2c562a82658b)
+![Screenshot (257)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/3f977af5-685a-43dc-bb8e-a76e5cdbf5e0)
+![Screenshot (258)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/3ab471c0-58b3-48ee-b4ea-42be1b6c0189)
+![Screenshot (259)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/35b7b38b-d2bc-43d6-94d8-3443dafd5437)
+![Screenshot (260)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/d20063e5-47f2-4bce-86de-a7b32bd79dd0)
+![Screenshot (261)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/0262a991-ca0c-4391-ac36-0853194be275)
+![Screenshot (262)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/123add12-7bc9-4f95-bc8a-c8fbc305cd2f)
+![Screenshot (263)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/26f5a164-9e19-4ac3-b155-b56d185d6383)
+![Screenshot (264)](https://github.com/ShrutiiMargaje/Food-Recommendation-System/assets/99093420/d0d5081b-399b-42b8-adb9-c2c3a88d4b97)
